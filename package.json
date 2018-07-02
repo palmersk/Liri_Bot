@@ -1,0 +1,27 @@
+{
+  "name": "Liri_Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmersk/Liri_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palmersk/Liri_Bot/issues"
+  },
+  "homepage": "https://github.com/palmersk/Liri_Bot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-movie": "^2.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  }
+}
